@@ -1,0 +1,8 @@
+{
+  "name": "fine-ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "3880924f"
+}
