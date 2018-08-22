@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-// import { Camera, CameraOptions } from '@ionic-native/camera';
+import { Camera, CameraOptions } from '@ionic-native/camera';
 import { MediaCapture, MediaFile, CaptureError, CaptureImageOptions } from '@ionic-native/media-capture';
 
 

@@ -1,19 +1,19 @@
 {
-  "_from": "cordova-plugin-media-capture@3.0.2",
+  "_from": "cordova-plugin-media-capture@^3.0.2",
   "_id": "cordova-plugin-media-capture@3.0.2",
   "_inBundle": false,
   "_integrity": "sha1-2mV8L6rc/H/cKGjlnSFe2D5wDDo=",
   "_location": "/cordova-plugin-media-capture",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
+    "type": "range",
     "registry": true,
-    "raw": "cordova-plugin-media-capture@3.0.2",
+    "raw": "cordova-plugin-media-capture@^3.0.2",
     "name": "cordova-plugin-media-capture",
     "escapedName": "cordova-plugin-media-capture",
-    "rawSpec": "3.0.2",
+    "rawSpec": "^3.0.2",
     "saveSpec": null,
-    "fetchSpec": "3.0.2"
+    "fetchSpec": "^3.0.2"
   },
   "_requiredBy": [
     "#USER",
@@ -21,7 +21,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/cordova-plugin-media-capture/-/cordova-plugin-media-capture-3.0.2.tgz",
   "_shasum": "da657c2faadcfc7fdc2868e59d215ed83e700c3a",
-  "_spec": "cordova-plugin-media-capture@3.0.2",
+  "_spec": "cordova-plugin-media-capture@^3.0.2",
   "_where": "/Users/beepiams/Documents/GitHub/fine",
   "author": {
     "name": "Apache Software Foundation"
